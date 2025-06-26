@@ -108,13 +108,6 @@ llm-dialogue-system/
 
 ## 配置选项
 
-### 环境变量
-| 变量名 | 描述 | 是否必须 |
-|--------|------|----------|
-| `DEEPSEEK_API_KEY` | DeepSeek API密钥 | 是 |
-| `QWEN_API_KEY` | 通义千问API密钥 | 否（不使用Qwen时可省略） |
-| `AMAP_API_KEY` | 高德地图API密钥 | 否（不使用地图服务时可省略） |
-
 ### 知识库配置
 - 文档目录：`knowledge_documents/`
 - 索引文件：`knowledge_index.idx`
