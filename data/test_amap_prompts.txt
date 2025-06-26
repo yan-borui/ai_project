@@ -1,0 +1,43 @@
+map:geocode 北京市海淀区中关村
+map:geocode 上海市浦东新区陆家嘴
+map:geocode 广州市天河区珠江新城
+map:geocode 深圳市南山区腾讯大厦
+map:geocode 杭州市西湖区阿里巴巴西溪园区
+map:geocode 成都市武侯区天府软件园
+map:geocode 南京市鼓楼区南京大学
+map:geocode 武汉市洪山区华中科技大学
+map:geocode 西安市雁塔区大雁塔
+map:geocode 重庆市渝中区解放碑
+
+map:reverse 116.397428,39.90923
+map:reverse 121.499718,31.239703
+map:reverse 113.323568,23.114155
+map:reverse 114.066112,22.548515
+map:reverse 120.210792,30.246026
+map:reverse 104.067923,30.679943
+map:reverse 118.778074,32.057236
+map:reverse 114.436868,30.510615
+map:reverse 108.946465,34.347269
+map:reverse 106.576677,29.556468
+
+map:search 餐厅 北京
+map:search 酒店 上海
+map:search 医院 广州
+map:search 加油站 深圳
+map:search 银行 杭州
+map:search 学校 成都
+map:search 电影院 南京
+map:search 超市 武汉
+map:search 公园 西安
+map:search 地铁站 重庆
+
+map:geocode 不存在的地址12345
+map:reverse 200,200
+map:search @#$%^&* 无效城市
+map:geocode
+map:reverse 116.397428
+map:unknown_command 测试数据
+map:search 特殊!字符@地点#
+map:geocode 东京都千代田区
+map:reverse 139.691706,35.689487
+map:search Starbucks 纽约

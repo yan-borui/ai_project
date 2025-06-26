@@ -1,0 +1,120 @@
+deepseek 用费曼图解释希格斯机制
+deepseek 推导贝叶斯定理的数学证明
+2 * 16 / 5 + 3
+deepseek 描述广义相对论中的时空弯曲
+deepseek 用通俗语言解释哥德尔不完备定理
+sqrt(36) + log10(100)
+deepseek 计算抛硬币连续5次正面的概率
+qwen 简述 CRISPR 基因编辑原理
+sin(pi/2) * 8 - 5
+qwen 如何证明某种技术是否属于区块链？
+qwen 解释量子纠缠与超距作用的区别
+(12 - 4) * 3 / 2
+qwen 描述微分方程在金融建模中的应用
+qwen 列举拓扑学在现实中的三个应用案例
+exp(1) + round(pi, 2)
+deepseek 写Python代码实现快速排序
+deepseek 解释RESTful API设计原则
+3^4 / 9 + 7
+deepseek 用JavaScript实现深度拷贝函数
+deepseek 描述Docker容器与虚拟机的区别
+abs(-15) * 2 % 8
+deepseek 2023年13月32日是星期几？
+qwen 设计SQL查询找出重复订单
+tan(0) + cos(pi)
+qwen 解释OAuth 2.0授权流程
+qwen 用正则表达式匹配所有中国手机号
+log(100, 10) * 5
+qwen 简述GraphQL优于REST的场景
+qwen 如何优化网站Core Web Vitals指标
+2 * (18 - 4) / 3.5
+deepseek 以AI视角写七言绝句
+deepseek 续写："开门的瞬间，她发现..."
+sqrt(81) - 4^2
+deepseek 将《论语》"学而时习之"改写成Rap歌词
+deepseek 用海明威风格描述台风场景
+(e^2) * 0.5 + 3
+deepseek 创作关于时间悖论的微小说（200字）
+qwen 把牛顿定律改编成童话故事
+15 % 4 * 6 - 1
+qwen 生成5个有反转结局的故事梗概
+qwen 用甲骨文风格写现代天气预报
+log10(1000) + sin(0)
+qwen 为智能手表设计三行俳句广告语
+qwen 将量子叠加态拟人化成戏剧独白
+3*sin(pi/6) + 2*cos(0)
+deepseek 三人戴帽谜题（两白一黑）的解决方案
+deepseek 用维恩图分析"有些A是B，所有B是C"的关系
+round(9.876, 1) * 2
+deepseek 海盗分金问题的策略分析
+deepseek 检测这段话的逻辑谬误："因为专家说..."
+(16^0.5) * 3 - 1
+deepseek 用真值表验证(P→Q)∧¬Q→¬P
+qwen 解决河内塔问题的递归步骤
+exp(ln(5)) * 3
+qwen 分析"忒修斯之船"悖论的两种立场
+qwen 解释囚徒困境中的纳什均衡
+1/3 + 1/6 + 1/9
+qwen 用归谬法证明√2是无理数
+qwen 计算24点：3,3,8,8
+hypot(3,4) * 2
+deepseek 设计7天减脂食谱（1500卡/天）
+deepseek 教老年人使用智能手机的5个技巧
+gamma(4) / 6
+deepseek 处理油锅起火的正确步骤
+deepseek 简历中如何巧妙描述职业空窗期
+erf(0.5) * 10
+deepseek 阳台种菜的初学者指南
+qwen 国际象棋开局陷阱：意大利陷阱
+comb(10,2) / perm(5,2)
+qwen 用生活用品自制简易净水装置
+qwen 谈判薪资的3个话术策略
+degrees(pi/4)
+qwen 野外辨别方向的10种方法
+qwen 即兴演讲的PREP结构模板
+2*log2(32) + 3
+deepseek 用经济学原理解释蜜蜂种群衰退
+deepseek 从神经科学角度分析"顿悟"现象
+ceil(7.2) * floor(6.9)
+deepseek 设计实验验证植物是否有记忆
+deepseek 气候变暖如何影响古代丝绸之路变迁？
+atan(1) * 4 / pi
+deepseek 用建筑学隐喻解释TCP三次握手
+qwen 分析《红楼梦》中的中医药描写
+mod(17,5) * 3
+qwen 用物理熵增理论解读企业管理
+qwen 从分子美食学角度改进番茄炒蛋
+1/(1+exp(-2))
+qwen 用博弈论解读《三体》黑暗森林法则
+qwen 比较佛教轮回说与量子退相干
+sinh(1) + cosh(0)
+deepseek 电车难题的功利主义批判
+deepseek 孔子"以直报怨"与现代司法兼容性
+erf(1) * sqrt(pi)/2
+deepseek 自由意志在强AI时代是否成立？
+deepseek 分析"无知之幕"在算法公平中的应用
+asin(0.5) * 6 / pi
+deepseek 庄子蝴蝶梦与虚拟现实伦理
+qwen 尼采"超人哲学"对AI发展的启示
+gamma(0.5)^2 / pi
+qwen 儒家孝道与养老机器人伦理冲突
+qwen 讨论"中文房间"思想实验的局限性
+hypot(5,12) * sin(pi/3)
+qwen 康德的绝对命令如何约束AI行为？
+qwen 比较中西方的隐私权哲学基础
+2*pi*r (r=7.5)
+deepseek 为火星殖民地设计货币系统
+deepseek 发明基于云朵的交通方式
+expm1(1)
+deepseek 用化学元素写情书（需包含Fe, O, C）
+deepseek 设计检测谎言的智能眼镜功能
+besselj(0,1)
+deepseek 把圆周率前20位编成记忆口诀
+qwen 创作融合甲骨文和emoji的短诗
+1 - norm.cdf(1.96)
+qwen 如果时间可抵押，会产生什么金融产品？
+qwen 用五感描写"寂静"（禁止用"安静"）
+2*pi*r (r=5)
+qwen 为AI生成艺术策展撰写前言
+qwen 设计可食用的二维码饼干
+1+1
