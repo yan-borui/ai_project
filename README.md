@@ -27,7 +27,7 @@
 - Git LFS
 
 ### 安装步骤
-1. 浅克隆仓库：
+1. 浅克隆仓库（需安装Git LFS）：
 ```bash
 git clone --depth 1 https://github.com/yan-borui/ai_project.git
 cd ai_project
