@@ -26,6 +26,7 @@
 - Python 3.10+
 - 有效的DeepSeek API密钥
 - 可选：通义千问API密钥（用于Qwen模型）
+- 可选：高德地图API密钥（用于地图服务）
 - Git LFS
 
 ### 安装步骤
@@ -44,7 +45,7 @@ pip install -r requirements.txt
 ```env
 DEEPSEEK_API_KEY=your_deepseek_api_key
 QWEN_API_KEY=your_qwen_api_key
-AMAP_API_KEY=your_amap_api_key  # 可选，用于地图服务
+AMAP_API_KEY=your_amap_api_key
 ```
 
 ### 启动服务
@@ -101,7 +102,7 @@ http://localhost:7860
 ```
 ai_project/
 ├── GUI/
-├── ├── gradio_gui.py          # 前端界面
+├── └── gradio_gui.py          # 前端界面
 ├── main.py                # 后端主程序
 ├── requirements.txt       # 依赖列表
 ├── .env                   # 环境变量配置
